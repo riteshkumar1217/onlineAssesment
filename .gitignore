@@ -10,6 +10,8 @@
 # Undo-tree save-files
 *.~undo-tree
 
-**/bin/
+**/bin
 
-**/.settings/
+**/.settings
+
+**/.metadata
